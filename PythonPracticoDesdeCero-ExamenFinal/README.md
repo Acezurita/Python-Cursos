@@ -13,4 +13,4 @@
 
 PD. Más adelante detallaré aún más las modificaciones, ya que el curso de GIT-HUB me llevo más de lo esperado y pasaron casi 3 semanas desde que hice este proyecto, por ende debo repasar unos apuntes para explicarlo mejor.
 
-PD. Pueden hacer un fork para que prueben la funcionalidad del proyecto.
+PD. Pueden clonar el proyecto para que prueben su funcionalidad.
